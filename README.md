@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 💻 React.js Developer with 1.9+ years experience  
+- 💻 React.js Developer with 2.9+ years experience  
 - ⚡ I build Websites & Mobile Apps (MERN + React Native)  
 - 🛒 Worked on E-commerce & Hotel Booking Systems  
 - 💰 Integrated Razorpay Payments  
